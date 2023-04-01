@@ -1,0 +1,8 @@
+{
+    "domain": "dev-7sjka452.us.auth0.com",
+    "clientId": "4bVyX1vTFantmhC2N3Nl2xQ1aP97MK4P",
+    "callbackUrl": "http://localhost:4000",
+    "realm": "Username-Password-Authentication",
+    "apiAudience": "https://dev-7sjka452.us.auth0.com/api/v2/",
+    "scope":"read:current_user update:current_user_metadata"
+  }
